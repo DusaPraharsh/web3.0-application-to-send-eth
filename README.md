@@ -15,5 +15,5 @@ use command - npm run dev
 contract address in constant.js
 private key, url in hardhat.config.js
 
-![Image](../client/images/sss.png)
+![Image](client/images/sss.png)
 
