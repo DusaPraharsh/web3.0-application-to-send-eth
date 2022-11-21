@@ -2,16 +2,17 @@
 
 ### Basic Setup
 
-node.js
-react.js
+vite
+hardhat
 tailwind.css
 
 ### Command
 
-use command - npm run react-app:start
+use command - npm run dev
 
 ### Change variables
 
 contract address in constant.js
 private key, url in hardhat.config.js
+
 
