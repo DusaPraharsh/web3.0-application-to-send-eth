@@ -1,6 +1,6 @@
 # web3.0-application
 
-https://ethtxn.netlify.app/
+[https://ethtxn.netlify.app/](https://dapp-testnet-goerli.netlify.app/)
 ![Image](client/images/sss.png)
 
 ### Basic Setup
